@@ -8,8 +8,8 @@ This repository contains three main projects demonstrating different aspects of 
 
 ### 📊 Project Compilation
 
-| Project | Type | Technology | Status | Description |
-|---------|------|------------|--------|-------------|
+| Project | Type | Technology | Status |
+|---------|------|------------|--------|
 | **Image-Classification** | Computer Vision | ✅ Complete | CNN-based image classification with PyTorch |
 | **Handwritten-Digit-Recognition-Tool** | Classical ML | ✅ Complete | Multiple algorithms for digit recognition |
 | **Interactive Image Classification Tool** | Web Application | ✅ Complete | Full-stack ML/DL application with modern UI |
@@ -33,7 +33,7 @@ This repository contains three main projects demonstrating different aspects of 
 - 📱 Fully responsive design
 - 🔧 Production-ready architecture
 
-**Access**: [Live Demo](frontend_enhanced.html) | [Documentation](Interactive-Image-Classification-Tool/README.md)
+**Access**: [Documentation](Interactive-Image-Classification-Tool/README.md)
 
 ---
 
@@ -203,11 +203,6 @@ We welcome contributions to enhance this repository! Please see individual proje
 
 ---
 
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👥‍🚀 Acknowledgments
 
@@ -217,11 +212,6 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 - **Scikit-learn** for machine learning algorithms
 - **Open Source Community** for various tools and libraries
 
----
-
-## 🌐 Live Demo
-
-**Interactive Image Classification Tool**: [http://localhost:8001](http://localhost:8001)
 
 ---
 

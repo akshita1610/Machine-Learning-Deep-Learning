@@ -190,12 +190,6 @@ This repository demonstrates proficiency in:
 - [ ] **API Authentication** and user management
 - [ ] **Performance Optimization** and caching
 
-### Research Areas
-- [ ] **Transfer Learning** techniques
-- [ ] **Ensemble Methods** for improved accuracy
-- [ ] **Edge Computing** optimizations
-- [ ] **AutoML Integration** for automated model selection
-
 ---
 
 ## 📝 Contributing
@@ -227,12 +221,9 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ---
 
-## 📞 Contact & Support
+## 🌐 Live Demo
 
-For questions, suggestions, or collaboration:
-- 📧 **Issues**: [GitHub Issues](https://github.com/akshita1610/Machine-Learning-Deep-Learning/issues)
-- 📚 **Documentation**: [Project Wiki](https://github.com/akshita1610/Machine-Learning-Deep-Learning/wiki)
-- 🌐 **Live Demo**: [Interactive Tool Demo](http://localhost:8001)
+**Interactive Image Classification Tool**: [http://localhost:8001](http://localhost:8001)
 
 ---
 
